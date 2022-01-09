@@ -32,8 +32,15 @@ if __name__ == '__main__':
 ```
 
 ## Step1: Go to list file config for nginx
+
+### centos
 ```
 cd /etc/nginx/conf.d
+```
+
+### ubuntu
+```
+cd /etc/nginx/sites-available
 ```
 
 ### site1
